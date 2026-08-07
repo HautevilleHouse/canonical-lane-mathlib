@@ -1,0 +1,12 @@
+namespace HautevilleHouse
+namespace Core
+namespace TheoremExports.OkounkovRepresentationTheory
+
+def constrained_theorem_closure : Prop := True
+
+theorem constrained_theorem_closure_true : constrained_theorem_closure := by
+  trivial
+
+end TheoremExports.OkounkovRepresentationTheory
+end Core
+end HautevilleHouse

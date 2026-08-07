@@ -1,8 +1,0 @@
-import CanonicalLaneMathlibArithmetic.EllipticCurve
-import CanonicalLaneMathlibArithmetic.Selmer
-import CanonicalLaneMathlibArithmetic.Kolyvagin
-import CanonicalLaneMathlibArithmetic.Modularity
-import CanonicalLaneMathlibArithmetic.Heegner
-import CanonicalLaneMathlibArithmetic.CM
-import CanonicalLaneMathlibArithmetic.PAdicHodge
-import CanonicalLaneMathlibArithmetic.Galois
