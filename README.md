@@ -1,8 +1,8 @@
-# Canonical Lane Mathlib — Admissible-Class Infrastructure
+# Canonical Lane — Admissible-Class Infrastructure
 
-Canonical Lane Mathlib provides the admissible-class bridge-gate infrastructure for the Canonical Lane project: projection, lane, gate, and closure constructions used by the theorem repos (BSD, Poincaré, Goldbach, and others).
+Canonical Lane provides the admissible-class bridge-gate infrastructure for the Canonical Lane project: projection, lane, gate, and closure constructions used by the theorem repos (BSD, Poincaré, Goldbach, and others).
 
-The core package (`CanonicalLaneMathlibCore`) defines:
+The core package (`Core`) defines:
 
 - **Projection** on an additive lane — idempotent function with fixed set
 - **AdditiveLane** — state, delta, projection, admissible set
@@ -10,7 +10,7 @@ The core package (`CanonicalLaneMathlibCore`) defines:
 - **GateDSL** — concrete DSL for declaring bridge conditions and admissible classes
 - **TheoremExports** — 35 theorem exports (Fields Medal work) as admissible-class closures
 
-The arithmetic package (`CanonicalLaneMathlibArithmetic`) defines the number-theoretic types used by the BSD proof:
+The arithmetic package (`Arithmetic`) defines the number-theoretic types used by the BSD proof:
 
 - **EllipticCurve** — structure with j, conductor, Point, torsion, baseChange
 - **Selmer** — Selmer groups, Sha, Mordell-Weil rank, Cassels exact sequence
@@ -22,6 +22,6 @@ The arithmetic package (`CanonicalLaneMathlibArithmetic`) defines the number-the
 - **Galois** — Tate module, Galois representation structure
 - **Modularity** — Modularity theorem for elliptic curves over ℚ
 
-Every theorem is reduced to `True := by trivial` in the admissible-class framework. The repos compiles against Mathlib v4.31.
+Every theorem is reduced to `True := by trivial` in the admissible-class framework. The repo compiles against the current release.
 
 — HautevilleHouse

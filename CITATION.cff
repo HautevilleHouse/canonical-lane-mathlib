@@ -3,14 +3,14 @@ message: "If you use this formalization in your research, please cite it as belo
 authors:
   - family-names: "House"
     given-names: "Hauteville"
-title: "Canonical Lane Mathlib — admissible-class bridge proof infrastructure"
+title: "Canonical Lane — admissible-class bridge proof infrastructure"
 version: 1.0.0
 date-released: "2026-03-05"
-url: "https://github.com/HautevilleHouse/canonical-lane-Mathlib"
-repository-code: "https://github.com/HautevilleHouse/canonical-lane-Mathlib"
+url: "https://github.com/HautevilleHouse/canonical-lane-mathlib"
+repository-code: "https://github.com/HautevilleHouse/canonical-lane-mathlib"
 keywords:
   - mathematics
   - formal-verification
-  - lean-4
+  - lean
   - admissible-class
   - bridge-gate
