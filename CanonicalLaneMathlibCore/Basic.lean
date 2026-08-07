@@ -1,15 +1,6 @@
 import Mathlib.Data.Set.Basic
 import Mathlib.Algebra.Group.Defs
 
-/-!
-# Canonical Lane Mathlib Core
-
-This module defines the shared Mathlib-backed projection and carriage spine used
-by the theorem-facing Lean repositories. It proves the common idempotent
-projection and carriage equations. The theorem-specific repositories still own
-their individual mathematical objects and gap ledgers.
--/
-
 namespace HautevilleHouse
 namespace CanonicalLaneMathlibCore
 

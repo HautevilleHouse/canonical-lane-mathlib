@@ -1,11 +1,3 @@
-/-!
-# Alan Baker's Transcendental Number Theory
-
-Baker's theorem: linear forms in logarithms of algebraic numbers
-are either zero or transcendental. This provides effective bounds
-for Diophantine equations.
--/
-
 namespace HautevilleHouse
 namespace CanonicalLaneMathlibCore
 namespace TheoremExports.BakerTranscendental

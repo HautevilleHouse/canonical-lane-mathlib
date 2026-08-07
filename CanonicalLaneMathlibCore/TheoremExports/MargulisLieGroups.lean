@@ -1,10 +1,3 @@
-/-!
-# Grigory Margulis' Work on Lie Groups
-
-Margulis superrigidity: irreducible lattices in semisimple Lie groups
-of real rank at least 2 are arithmetic.
--/
-
 namespace HautevilleHouse
 namespace CanonicalLaneMathlibCore
 namespace TheoremExports.MargulisLieGroups
