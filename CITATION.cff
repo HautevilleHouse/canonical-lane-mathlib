@@ -6,8 +6,8 @@ authors:
 title: "Canonical Lane Mathlib — admissible-class bridge proof infrastructure"
 version: 1.0.0
 date-released: "2026-03-05"
-url: "https://github.com/HautevilleHouse/canonical-lane-mathlib"
-repository-code: "https://github.com/HautevilleHouse/canonical-lane-mathlib"
+url: "https://github.com/HautevilleHouse/canonical-lane-Mathlib"
+repository-code: "https://github.com/HautevilleHouse/canonical-lane-Mathlib"
 keywords:
   - mathematics
   - formal-verification
