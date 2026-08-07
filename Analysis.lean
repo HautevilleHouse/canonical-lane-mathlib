@@ -1,9 +1,14 @@
 import HautevilleHouse.Analysis.PhragmenLindelof
 import HautevilleHouse.Analysis.GammaAsymptotics
 import HautevilleHouse.Analysis.ZetaFunctionalEquation
+import HautevilleHouse.Analysis.ZetaTheory
 import HautevilleHouse.Analysis.LerayTheory
 import HautevilleHouse.Analysis.SerrinRegularity
+import HautevilleHouse.Analysis.SobolevTheory
 import HautevilleHouse.Analysis.AdditiveNumberTheory
 import HautevilleHouse.Analysis.PolynomialMaps
 import HautevilleHouse.Analysis.OperatorTheory
+import HautevilleHouse.Analysis.RicciFlow
+import HautevilleHouse.Analysis.RicciSurgery
+import HautevilleHouse.Analysis.Geometrization
 
