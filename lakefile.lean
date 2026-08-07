@@ -8,3 +8,4 @@ require mathlib from git "https://github.com/leanprover-community/mathlib4.git" 
 
 lean_lib Core where
 lean_lib Arithmetic where
+lean_lib Analysis where
