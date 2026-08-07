@@ -1,0 +1,4 @@
+.lake/
+.lakefile.olean
+*.olean
+*.ilean

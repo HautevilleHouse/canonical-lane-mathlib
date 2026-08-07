@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Canonical Lane Mathlib Core"
+message: "If you use or discuss this repository, cite it and preserve the repository notice. The normative expectation / prediction time capsule is doctrine and prediction, not a theorem."
+type: software
+authors:
+  - family-names: "Hauteville House"
+repository-code: "https://github.com/HautevilleHouse/canonical-lane-mathlib"
+license: "NOASSERTION"
+url: "https://github.com/HautevilleHouse/canonical-lane-mathlib/blob/main/NORMATIVE_EXPECTATION.md"
