@@ -1,9 +1,16 @@
 cff-version: 1.2.0
-title: "Canonical Lane Mathlib Core"
-message: "If you use or discuss this repository, cite it and preserve the repository notice. The normative expectation / prediction time capsule is doctrine and prediction, not a theorem."
-type: software
+message: "If you use this formalization in your research, please cite it as below."
 authors:
-  - family-names: "Hauteville House"
+  - family-names: "House"
+    given-names: "Hauteville"
+title: "Canonical Lane Mathlib — admissible-class bridge proof infrastructure"
+version: 1.0.0
+date-released: "2026-03-05"
+url: "https://github.com/HautevilleHouse/canonical-lane-mathlib"
 repository-code: "https://github.com/HautevilleHouse/canonical-lane-mathlib"
-license: "NOASSERTION"
-url: "https://github.com/HautevilleHouse/canonical-lane-mathlib/blob/main/NORMATIVE_EXPECTATION.md"
+keywords:
+  - mathematics
+  - formal-verification
+  - lean-4
+  - admissible-class
+  - bridge-gate
